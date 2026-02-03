@@ -1,1 +1,1 @@
-
+This assignment includes Python programs on lists, tuples, sets, dictionaries, and OOP concepts like inheritance and polymorphism. It also has simple projects like bank and library systems. These programs helped me understand data structures and object-oriented programming in a practical way.
